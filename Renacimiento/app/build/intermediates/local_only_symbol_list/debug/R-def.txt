@@ -4,7 +4,12 @@ color accent
 color bg_main
 color text_primary
 color text_secondary
+id drawerLayout
+id nav_acerca
+id nav_biblia
+id nav_devocionales
 id terminalText
 layout activity_main
+menu drawer_menu
 string app_name
 style Theme.Renacimiento
